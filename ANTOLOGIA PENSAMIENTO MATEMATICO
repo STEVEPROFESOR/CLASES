@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Respuestas a Eventos Simples y Compuestos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .respuesta {
+            margin-bottom: 20px;
+        }
+        .respuesta h2 {
+            margin-bottom: 5px;
+        }
+        .respuesta p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Respuestas a Eventos Simples y Compuestos</h1>
+
+    <div class="respuesta">
+        <h2>Situación A:</h2>
+        <p><strong>Descripción:</strong> Lanzar una moneda y obtener cara.</p>
+        <p><strong>Elementos del evento:</strong> Moneda, cara</p>
+        <p><strong>Evento:</strong> Simple</p>
+        <p><strong>Explicación:</strong> Este es un evento simple porque solo implica un solo resultado de un único experimento (lanzar una moneda).</p>
+    </div>
+
+    <div class="respuesta">
+        <h2>Situación B:</h2>
+        <p><strong>Descripción:</strong> Lanzar un dado y obtener un número par.</p>
+        <p><strong>Elementos del evento:</strong> Dado, números pares (2, 4, 6)</p>
+        <p><strong>Evento:</strong> Simple</p>
+        <p><strong>Explicación:</strong> Este es un evento simple porque solo implica un solo resultado de un único experimento (lanzar un dado y obtener un número par).</p>
+    </div>
+
+    <div class="respuesta">
+        <h2>Situación C:</h2>
+        <p><strong>Descripción:</strong> Sacar una carta roja de un mazo de cartas.</p>
+        <p><strong>Elementos del evento:</strong> Mazo de cartas, cartas rojas</p>
+        <p><strong>Evento:</strong> Simple</p>
+        <p><strong>Explicación:</strong> Este es un evento simple porque solo implica un solo resultado de un único experimento (sacar una carta roja de un mazo de cartas).</p>
+    </div>
+
+    <div class="respuesta">
+        <h2>Situación D:</h2>
+        <p><strong>Descripción:</strong> Sacar una bola roja de una bolsa con 3 bolas rojas y 2 bolas verdes, y luego sacar una bola verde sin devolver la primera bola a la bolsa.</p>
+        <p><strong>Elementos del evento:</strong> Bolsa, bolas rojas, bolas verdes</p>
+        <p><strong>Evento:</strong> Compuesto</p>
+        <p><strong>Explicación:</strong> Este es un evento compuesto porque implica dos resultados secuenciales dependientes (sacar una bola roja y luego una bola verde sin devolución).</p>
+    </div>
+
+    <div class="respuesta">
+        <h2>Situación E:</h2>
+        <p><strong>Descripción:</strong> Lanzar dos dados y obtener un doble seis.</p>
+        <p><strong>Elementos del evento:</strong> Dos dados, doble seis</p>
+        <p><strong>Evento:</strong> Compuesto</p>
+        <p><strong>Explicación:</strong> Este es un evento compuesto porque implica dos resultados en un solo experimento (lanzar dos dados y obtener un seis en ambos).</p>
+    </div>
+</body>
+</html>
